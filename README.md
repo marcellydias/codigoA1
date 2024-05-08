@@ -1,0 +1,2 @@
+Código criado para a quastão da prova A1: 
+Você foi contratado para desenvolver uma aplicativo para cadastro de jogadores. Neste cadastro, deverá ser solicitado o nome e o número da camisa do(a) jogador(a). Construa o conteúdo do arquivo XML da tela de cadastro de Jogadores. Construa também o método salvar( ) da classe que controla o XML, referente ao que deve ser programado para quando o usuário clicar no botão Salvar.
