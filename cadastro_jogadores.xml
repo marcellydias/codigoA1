@@ -1,4 +1,4 @@
-<layout id="cadastroJogadores">
+<layout>
     <textField id="nome" label="Nome do jogador:" />
     <numberField id="numeroCamisa" label="Número da camisa:" />
     <button id="salvar" label="Salvar" />
